@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # consumo_servico_avancado
 
-A new Flutter project.
+Obs: projeto desenvolvido no curso de Flutter
 
 ## Getting Started
 
